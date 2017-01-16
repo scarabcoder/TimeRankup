@@ -1,0 +1,6 @@
+name: TimeRankup
+version: 1.0
+main: com.scarabcoder.rankup.main.Main
+commands:
+    trank:
+        description: Main command for TimeRankup
